@@ -44,7 +44,7 @@ A Flutter weather app that fetches live weather data from a public API, with cit
 
 ```bash
 # Clone the repo
-git clone https://github.com/ahmadsultaniswl-stack/weatherapp.git
+git clone https://github.com/saieahmadsultan/weatherapp.git
 cd weatherapp
 
 # Install dependencies
@@ -60,7 +60,8 @@ flutter run
 
 ## 👤 Author
 
-**Saie Ahmad**
+**Saie Ahmad Sultan**
 Flutter Mobile App Developer
 📧 ahmadsultaniswl@gmail.com
 🔗 [LinkedIn](https://www.linkedin.com/in/saie-ahmad)
+🐙 [GitHub](https://github.com/saieahmadsultan)
